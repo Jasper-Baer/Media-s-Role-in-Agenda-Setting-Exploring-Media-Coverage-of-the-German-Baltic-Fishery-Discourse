@@ -1,4 +1,4 @@
-# The-German-Baltic-Fishery-Sector-A-Sentiment-Analysis-of-the-Agenda-Setting-Role-of-the-Media
+# Media’s Role in Agenda-Setting: Exploring Media Coverage of the German Baltic Fishery Discourse
 
 This repository includes the code for the generation of the results of our paper "The German Baltic Fishery Sector: A Sentiment Analysis of the Agenda-Setting Role of the Media".
 
